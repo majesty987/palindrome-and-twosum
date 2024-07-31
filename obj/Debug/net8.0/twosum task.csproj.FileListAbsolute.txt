@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\twosum task\bin\Debug\net8.0\twosum task.exe
+C:\Users\USER\source\repos\twosum task\bin\Debug\net8.0\twosum task.deps.json
+C:\Users\USER\source\repos\twosum task\bin\Debug\net8.0\twosum task.runtimeconfig.json
+C:\Users\USER\source\repos\twosum task\bin\Debug\net8.0\twosum task.dll
+C:\Users\USER\source\repos\twosum task\bin\Debug\net8.0\twosum task.pdb
+C:\Users\USER\source\repos\twosum task\obj\Debug\net8.0\twosum task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\twosum task\obj\Debug\net8.0\twosum task.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\twosum task\obj\Debug\net8.0\twosum task.AssemblyInfo.cs
+C:\Users\USER\source\repos\twosum task\obj\Debug\net8.0\twosum task.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\twosum task\obj\Debug\net8.0\twosum task.dll
+C:\Users\USER\source\repos\twosum task\obj\Debug\net8.0\refint\twosum task.dll
+C:\Users\USER\source\repos\twosum task\obj\Debug\net8.0\twosum task.pdb
+C:\Users\USER\source\repos\twosum task\obj\Debug\net8.0\twosum task.genruntimeconfig.cache
+C:\Users\USER\source\repos\twosum task\obj\Debug\net8.0\ref\twosum task.dll
